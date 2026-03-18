@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "モニタリング",
   "base_artist": "DECO*27",
-  "createdAt": "2025-12-06T05:26:25.791806Z",
+  "createdAt": "2026-03-18T16:01:36.945666Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,69 @@
       "artist": "DECO*27",
       "has_synced": false,
       "path": "select/pl_01_モニタリング_DECO_27.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/localdb_01_モニタリング_DECO_27.lrc",
+      "repo_name": "P2hHxlxOeF0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/localdb_02_モニタリング_DECO_27.lrc",
+      "repo_name": "C-CYwNz3z8w"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/localdb_03_モニタリング_DECO_27.lrc",
+      "repo_name": "kbNdx0yqbZE"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/localdb_04_モニタリング_DECO_27.txt",
+      "repo_name": "fchwNMI075k"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/localdb_05_モニタリング_DECO_27.lrc",
+      "repo_name": "R4oosDdOYlc"
+    },
+    {
+      "id": "localdb_6",
+      "source": "localdb",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/localdb_06_モニタリング_DECO_27.lrc",
+      "repo_name": "7H5D_e08OHU"
+    },
+    {
+      "id": "localdb_7",
+      "source": "localdb",
+      "title": "モニタリング",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/localdb_07_モニタリング_DECO_27.lrc",
+      "repo_name": "9WcuZXcOnpY"
     }
   ]
 }
