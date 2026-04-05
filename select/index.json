@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "モニタリング",
   "base_artist": "DECO*27",
-  "createdAt": "2026-04-05T09:23:34.854038Z",
+  "createdAt": "2026-04-05T10:49:22.700931Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,7 +115,7 @@
       "artist": "DECO*27",
       "has_synced": true,
       "path": "select/localdb_01_モニタリング_DECO_27.lrc",
-      "repo_name": "C-CYwNz3z8w"
+      "repo_name": "kbNdx0yqbZE"
     },
     {
       "id": "localdb_2",
@@ -124,7 +124,7 @@
       "artist": "DECO*27",
       "has_synced": true,
       "path": "select/localdb_02_モニタリング_DECO_27.lrc",
-      "repo_name": "kbNdx0yqbZE"
+      "repo_name": "C-CYwNz3z8w"
     },
     {
       "id": "localdb_3",
